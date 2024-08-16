@@ -66,8 +66,11 @@
 **Desenvolvedor / DevOps**  
 *Abr 2022 - Out 2022*
 
-- Pesquisa e desenvolvimento de tecnologias para baterias em projetos de carros elétricos.
-- Desenvolvimento do banco de baterias e sistema de refrigeração para Fórmula SAE.
+- Experiência em automação de processos e pipelines de CI/CD usando ferramentas como Jenkins.
+- Domínio em containerização com Docker e orquestração de containers com Kubernetes.
+- Desenvolvimento em Java, Javascript, Typescript, Python e NodeJS
+
+
 
 
 ## 📫 Entre em Contato
