@@ -12,7 +12,7 @@
 💼 **Profissão**: Desenvolvedor Full-stack com experiência em várias tecnologias.  
 🌍 **Localização**: Chapecó, SC, Brasil.  
 
-👨‍💻 Sou um desenvolvedor full-stack com experiência em uma ampla gama de tecnologias, incluindo Node.js, Go LANG, Java, Python, e mais. Tenho paixão por criar soluções inovadoras que resolvem problemas reais. 👨‍💻 
+👨‍💻 Sou um desenvolvedor full-stack com experiência em uma ampla gama de tecnologias, incluindo Flutter, Node.js, Go LANG, Java, Python, e mais. Tenho paixão por criar soluções inovadoras que resolvem problemas reais. 👨‍💻 
 
 ---
 
@@ -21,6 +21,7 @@
 ![Skills](https://your-image-link/skills.gif)
 
 - **Linguagens de Programação**:
+  - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
   - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   - ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -29,11 +30,12 @@
   - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 - **Tecnologias e Ferramentas**:
+  - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
   - ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
   - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 
 - **Metodologias**:
   - ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
